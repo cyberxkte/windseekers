@@ -1,0 +1,23 @@
+<svg width="41.2" height="51.73199999999999" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="53.732" width="43.2" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <polygon stroke="null" id="svg_2" points="11.451973915100098,16.74441683292389 14.856385231018066,3.744416832923889 8.047562599182129,3.744416832923889 " fill="#28A5DF"/>
+  </g>
+  <g stroke="null" id="svg_3">
+   <polygon stroke="null" id="svg_4" points="23.31751315029703,0 17.985787909169517,0 11.65875562162853,23.250001907348633 5.331225596654576,0 0,0 8.252890931043112,31.500001907348633 15.064623172773906,31.500001907348633 " fill="#FFFFFF"/>
+  </g>
+  <g stroke="null" id="svg_14">
+   <polygon stroke="null" id="svg_13" points="41.18351745605469,0.016714684665203094 35.85179138183594,0.016714684665203094 29.524761199951172,23.266715936362743 23.19723129272461,0.016714684665203094 17.866004943847656,0.016714684665203094 26.118896484375,31.516715936362743 32.930625915527344,31.516715936362743 " fill="#FFFFFF"/>
+  </g>
+  <g stroke="null" id="svg_16">
+   <polygon stroke="null" id="svg_15" points="29.30319118499756,16.744417190551758 32.70760250091553,3.7444169521331787 25.89877986907959,3.7444169521331787 " fill="#28A5DF"/>
+  </g>
+  <text stroke="null" transform="matrix(0.951945381777867,0,0,1,-0.09943282256831817,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="7" id="svg_17" y="42.8949" x="1.5136" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#fcfcfc">Windseekers</text>
+ </g>
+</svg>
