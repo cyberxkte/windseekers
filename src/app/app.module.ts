@@ -8,8 +8,9 @@ import { ContactComponent } from './contact/contact.component';
 import { GalleryComponent } from './gallery/gallery.component';
 import { HomeComponent } from './home/home.component';
 import { FooterComponent } from './footer/footer.component';
-import { ServicesComponent } from './services/services.component';
 import { HeaderComponent } from './header/header.component';
+import { GianfrancomarmoComponent } from './riders/gianfrancomarmo/gianfrancomarmo.component';
+import { SimonelicheriComponent } from './riders/simonelicheri/simonelicheri.component';
 
 @NgModule({
   declarations: [
@@ -19,8 +20,9 @@ import { HeaderComponent } from './header/header.component';
     GalleryComponent,
     HomeComponent,
     FooterComponent,
-    ServicesComponent,
-    HeaderComponent
+    HeaderComponent,
+    GianfrancomarmoComponent,
+    SimonelicheriComponent
   ],
   imports: [
     BrowserModule,
