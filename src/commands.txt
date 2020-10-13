@@ -4,4 +4,4 @@ ngh --dir dist/windseekers
 
 git push origin master
 
-git commit -m "commit"
+git push origin master  
