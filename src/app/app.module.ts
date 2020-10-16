@@ -11,6 +11,7 @@ import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
 import { GianfrancomarmoComponent } from './riders/gianfrancomarmo/gianfrancomarmo.component';
 import { SimonelicheriComponent } from './riders/simonelicheri/simonelicheri.component';
+import { SpotsComponent } from './spots/spots.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { SimonelicheriComponent } from './riders/simonelicheri/simonelicheri.com
     FooterComponent,
     HeaderComponent,
     GianfrancomarmoComponent,
-    SimonelicheriComponent
+    SimonelicheriComponent,
+    SpotsComponent
   ],
   imports: [
     BrowserModule,
