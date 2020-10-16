@@ -1,0 +1,26 @@
+<svg width="41.5" height="51.732" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="53.732" width="43.5" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <polygon stroke="null" id="svg_2" points="11.590290069580078,13.549023671769206 15.241022109985352,1.7254911661148071 7.939559459686279,1.7254911661148071 " fill="#28A5DF"/>
+  </g>
+  <g stroke="null" id="svg_3">
+   <polygon stroke="null" id="svg_4" points="23.27861649610668,0 17.95578666139079,0 11.63930824805334,16.30323001742363 5.322332786565198,0 0,0 8.239122316948908,22.0882471203804 15.03949417915777,22.0882471203804 " fill="#FFFFFF"/>
+  </g>
+  <g stroke="null" id="svg_5">
+   <text stroke="null" transform="matrix(0.0053873546727068716,-3.233717926363617,1.8204215753013395,0.0032171442141146448,-31.361214144418653,76.25439161278717) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="7" id="svg_13" y="28.01747" x="11.93484" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#fcfcfc"/>
+   <text stroke="null" transform="matrix(0.9709289246802856,0,0,1,0.34264480737922043,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="7" id="svg_14" y="47.80715" x="0.84417" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#fcfcfc">Windseekers</text>
+  </g>
+  <g stroke="null" id="svg_16">
+   <polygon stroke="null" id="svg_15" points="41.51388645172119,3.725290298461914e-8 36.191060066223145,3.725290298461914e-8 29.874581336975098,16.303230822086334 23.557602882385254,3.725290298461914e-8 18.235270500183105,3.725290298461914e-8 26.474392890930176,22.08824783563614 33.274765968322754,22.08824783563614 " fill="#FFFFFF"/>
+  </g>
+  <g stroke="null" id="svg_18">
+   <polygon stroke="null" id="svg_17" points="29.825558245182037,13.647063255310059 33.47629028558731,1.8235301971435547 26.174831926822662,1.8235301971435547 " fill="#28A5DF"/>
+  </g>
+ </g>
+</svg>
