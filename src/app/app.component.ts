@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { disableDebugTools } from '@angular/platform-browser';
 import { NavigationEnd, Router } from '@angular/router';
 
 @Component({
@@ -10,7 +11,11 @@ export class AppComponent {
   title = 'Windseekers';
 
   constructor(private router: Router) {
-    this.router.navigate(['/home']);
-
+    this.router.events.subscribe(e => {
+      if ((e instanceof NavigationEnd)) {
+        if (e.urlAfterRedirects.replace('/', '') == '')
+          this.router.navigate(['/home']);
+      }
+    });
   }
 }
