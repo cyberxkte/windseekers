@@ -1,7 +1,7 @@
+npm install -g angular-cli-ghpages
+
 ng build --prod --base-href "https://cyberxkte.github.io/windseekers"
 
 ngh --dir dist/windseekers
 
 git push origin master
-
-git push origin master  
